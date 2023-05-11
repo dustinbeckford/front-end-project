@@ -1,0 +1,51 @@
+.image-div {
+  width: 100%;
+  justify-content: center;
+}
+
+.btn btn-secondary btn-lg {
+    display: flex;
+    justify-content: right;
+    width: 400px;
+}
+
+#searchmake {
+border-radius: 19px;
+    padding: 10px; 
+    width: 200px;
+    height: 30px;
+}
+
+#searchmodel {
+border-radius: 19px;
+    padding: 10px; 
+    width: 200px;
+    height: 30px;
+}
+
+#searchyear {
+border-radius: 19px;
+    padding: 10px; 
+    width: 200px;
+    height: 30px;
+}
+
+
+#searchbutton {
+border-radius: 10px;
+padding: 0.1rem;
+width: 90px;
+height: 30px;
+}
+
+
+.car-container-div{
+    display: flexbox;
+    justify-content: center;
+    border-color: black;
+}
+
+.img-fluid{
+    width: 100%;
+    justify-content: center;
+}
