@@ -38,14 +38,36 @@ width: 90px;
 height: 30px;
 }
 
+#car-container {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
 
 .car-container-div{
-    display: flexbox;
+    display: flex;
+    flex-direction: column;
+    height: 800px;
     justify-content: center;
     border-color: black;
 }
 
 .img-fluid{
     width: 100%;
+    justify-content: center;
+}
+
+.car-image {
+    height: auto;
+    width: 200px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.input-fields {
+    display: flex;
     justify-content: center;
 }
