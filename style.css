@@ -4,70 +4,68 @@
 }
 
 .btn btn-secondary btn-lg {
-    display: flex;
-    justify-content: right;
-    width: 400px;
+  display: flex;
+  justify-content: right;
+  width: 400px;
 }
 
 #searchmake {
-border-radius: 19px;
-    padding: 10px; 
-    width: 200px;
-    height: 30px;
+  border-radius: 19px;
+  padding: 10px;
+  width: 200px;
+  height: 30px;
 }
 
 #searchmodel {
-border-radius: 19px;
-    padding: 10px; 
-    width: 200px;
-    height: 30px;
+  border-radius: 19px;
+  padding: 10px;
+  width: 200px;
+  height: 30px;
 }
 
 #searchyear {
-border-radius: 19px;
-    padding: 10px; 
-    width: 200px;
-    height: 30px;
+  border-radius: 19px;
+  padding: 10px;
+  width: 200px;
+  height: 30px;
 }
 
-
 #searchbutton {
-border-radius: 10px;
-padding: 0.1rem;
-width: 90px;
-height: 30px;
+  border-radius: 10px;
+  padding: 0.1rem;
+  width: 90px;
+  height: 30px;
 }
 
 #car-container {
-    display: flex;
-    justify-content: center;
-    gap: 100px;
+  display: flex;
+  justify-content: center;
+  gap: 100px;
 }
 
-
-.car-container-div{
-    display: flex;
-    flex-direction: column;
-    height: 800px;
-    justify-content: center;
-    border-color: black;
+.car-container-div {
+  display: flex;
+  flex-direction: column;
+  height: 800px;
+  justify-content: center;
+  border-color: black;
 }
 
-.img-fluid{
-    width: 100%;
-    justify-content: center;
+.img-fluid {
+  width: 100%;
+  justify-content: center;
 }
 
 .car-image {
-    height: auto;
-    width: 200px;
+  height: auto;
+  width: 200px;
 }
 
 body {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 .input-fields {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
