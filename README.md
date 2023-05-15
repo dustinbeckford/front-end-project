@@ -10,6 +10,7 @@ My goal of making this application is to provide the end-user with sufficient in
 
 I used an API called "Cars Api By Api Ninjas. Here is what to expect when inserting your specific parameters.
 
+![121](https://github.com/xJamoni/front-end-project/assets/61157341/fdaa7eb1-cd84-48f1-90d9-acbdc2b483c6)
 
 
 ```
