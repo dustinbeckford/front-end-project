@@ -30,3 +30,4 @@ I used an API called "Cars Api By Api Ninjas. Here is what to expect when insert
 ```
 The color scheme selected is white and gray to give a modern feel to the web page, I've also used photos inserted into a carrousel to allow the user to scroll through photographs of vehicles. Upon entering the website, the user is greeted with 3 input fields for Make, Model and Year. After inserting the respected fields the user may click on the search button, this will present to the user a list of key value pairs in the array provided by my car API.
 ```
+![121](https://github.com/xJamoni/front-end-project/assets/61157341/d2427922-92d2-4d19-9eb8-423d73bd784d)
