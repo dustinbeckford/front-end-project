@@ -10,7 +10,6 @@ My goal of making this application is to provide the end-user with sufficient in
 
 I used an API called "Cars Api By Api Ninjas. Here is what to expect when inserting your specific parameters.
 
-![121](https://github.com/xJamoni/front-end-project/assets/61157341/fdaa7eb1-cd84-48f1-90d9-acbdc2b483c6)
 
 
 ```
@@ -29,3 +28,4 @@ I used an API called "Cars Api By Api Ninjas. Here is what to expect when insert
 ```
 The color scheme I've selected is white and gray to give a more modern feel to the web page, I've also used photos inserted in a carrousel to allow the user to scroll through photographs of vehicles. Upon entering the website, the user is greeted with 3 input fields for Make, Model and Year. After inserting the respected fields the user may click on the search button, this will great the user with the list of key value pairs in the array provided by my car api..
 ```
+![121](https://github.com/xJamoni/front-end-project/assets/61157341/d2427922-92d2-4d19-9eb8-423d73bd784d)
