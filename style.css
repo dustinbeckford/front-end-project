@@ -94,8 +94,8 @@ body {
 
 #carousel-container {
   display: flex;
-  width: 2000px;
-  height: autoS;
+  width: 2820px;
+  height: 2000px;
   justify-content: center;
   align-content: center;
 }
