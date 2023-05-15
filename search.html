@@ -16,56 +16,42 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body style="background-color: grey;">
-<nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
       <div class="container-fluid">
-    
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarScroll">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul
             class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
             style="--bs-scroll-height: 100px"
           >
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="Landing Page.html">Home</a>
+              <a class="nav-link" href="index.html">Home</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="My favorite Car.html">My Favorite Car</a>
-            </li>
-           <li class="nav-item">
-            <a class="nav-link" href="About Me.html">About Me</a>
-            </li>
-              <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="Landing Page.html">Link to Landing Page</a></li>
-                <li><a class="dropdown-item" href="About Me.html">About Me</a></li>
-                <li><a class="dropdown-item" href="My favorite Car.html">My favorite car </a></li>
-                <li>
-                </li>
-              </ul>
+              <a class="nav-link" href="about.html">About Me</a>
             </li>
             <li class="nav-item">
+              <a class="nav-link" href="favorite.html">My Favorite Car</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="search.html">Search</a>
             </li>
           </ul>
-          
         </div>
       </div>
     </nav>
-    <div class="input-fields">
-        <div>
-
-        </div>
-     <input id="searchmake" type="text"  value ="Make" />
-      <input id="searchmodel" type="text" value="Model"/>
-      <input id="searchyear" type="text" value= "Year"/>
-      <button id="searchbutton" type="button" class="btn btn-dark">Search</button>
+    <div id="page-container" class="page-background">
+      <div class="input-fields mt-2">
+        <input id="searchmake" type="text" placeholder="Make" class="mt-2"/>
+        <input id="searchmodel" type="text" placeholder="Model" class="mt-2"/>
+        <input id="searchyear" type="text" placeholder="Year" class="mt-2" />
+        <button id="searchbutton" type="button" class="btn btn-dark mt-2">Search</button>
       </div>
-    <img src="https://www.nissan-global.com/JP/COMPANY/ASSETS/IMG/main_01_pc.jpg" class="img-fluid" alt="...">
-
-
-    
-     
-      
-    <div id="car-container">   
+      <div id="car-container">
+        <!-- add car container stuff -->
+      </div>
     </div>
   </body>
   <script src="index.js"></script>
