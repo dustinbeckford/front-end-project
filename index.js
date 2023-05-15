@@ -104,7 +104,7 @@ async function searchForVehicle() {
       carImage
     );
 
-    // Appending Big container made on HTML to Div with Varibles Created Above
+    // Appending Big container made on HTML to Div with Variables Created Above
     carContainer.append(carInfo);
   } else {
     const errorElement = document.createElement("h2");
