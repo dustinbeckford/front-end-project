@@ -1,110 +1,111 @@
-body, html {
-  height: 100%;
-  width: 100%;
+/** @format */
+
+body,
+html {
+	height: 100%;
+	width: 100%;
 }
 
 .image-div {
-  width: 100%;
-  justify-content: center;
+	width: 100%;
+	justify-content: center;
 }
 
 .btn btn-secondary btn-lg {
-  display: flex;
-  justify-content: right;
-  width: 400px;
+	display: flex;
+	justify-content: right;
+	width: 400px;
 }
 
 #searchmake {
-  border-radius: 19px;
-  padding: 10px;
-  width: 200px;
-  height: 30px;
+	border-radius: 19px;
+	padding: 10px;
+	width: 200px;
+	height: 30px;
 }
 
 #searchmodel {
-  border-radius: 19px;
-  padding: 10px;
-  width: 200px;
-  height: 30px;
+	border-radius: 19px;
+	padding: 10px;
+	width: 200px;
+	height: 30px;
 }
 
 #searchyear {
-  border-radius: 19px;
-  padding: 10px;
-  width: 200px;
-  height: 30px;
+	border-radius: 19px;
+	padding: 10px;
+	width: 200px;
+	height: 30px;
 }
 
 #searchbutton {
-  border-radius: 10px;
-  padding: 0.1rem;
-  width: 90px;
-  height: 30px;
+	border-radius: 10px;
+	padding: 0.1rem;
+	width: 90px;
+	height: 30px;
 }
 
 #car-container {
-  display: flex;
-  justify-content: center;
-  width: 80%;
-  height: auto;
+	display: flex;
+	justify-content: center;
+	width: 80%;
+	height: auto;
 }
 
 .car-container-div {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  height: 100%;
-  justify-content: center;
-  border-color: black;
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	height: 100%;
+	justify-content: center;
+	border-color: black;
 }
 
 .img-fluid {
-  width: 100%;
-  justify-content: center;
+	width: 100%;
+	justify-content: center;
 }
 
 .car-image {
-  height: auto;
-  width: 200px;
-} 
+	height: auto;
+	width: 200px;
+}
 
 body {
-  font-family: sans-serif;
+	font-family: sans-serif;
 }
 
 .input-fields {
-  display: flex;
-  flex-direction: column;
-  margin: 5px;
-  align-items: center;
+	display: flex;
+	flex-direction: column;
+	margin: 5px;
+	align-items: center;
 }
 
 #page-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
 }
 
 .page-background {
-  background-image: url('https://www.nissan-global.com/JP/COMPANY/ASSETS/IMG/main_01_pc.jpg');
-  background-size: cover; 
+	background-image: url("https://www.nissan-global.com/JP/COMPANY/ASSETS/IMG/main_01_pc.jpg");
+	background-size: cover;
 }
 
 #carousel-container {
-  display: flex;
-  width: 2820px;
-  height: 2000px;
-  justify-content: center;
-  align-content: center;
+	display: flex;
+	width: 2820px;
+	height: 2000px;
+	justify-content: center;
+	align-content: center;
 }
 
 #car-container {
-  display: flex;
-  background-color: white;
-  opacity: 0.75;
-  color: black;
+	display: flex;
+	background-color: white;
+	opacity: 0.75;
+	color: black;
 }
-
-
